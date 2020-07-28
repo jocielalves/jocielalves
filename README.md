@@ -1,4 +1,4 @@
-### Jociel Jesus 👋👨‍💻
+### Jociel Jesus 👨‍💻
 
 - ✍ Estou estudando constantemente...
 - 👨‍✈️ Atualmente trabalho na Secretaria de Desenvolvimento Social de Feira de Santana.
