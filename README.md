@@ -1,7 +1,7 @@
-### Jociel Jesus 👨‍💻
+### Jociel Alves 👨‍💻
 - 👨‍🎓 Técnico em Desenvolvimento de Sistemas
-- ❌O meu trabalho principal ainda não é como desenvolvedor.
+- 🎓 Bacharelando em Sistemas de Informação
 - 👨‍✈️ Atualmente trabalho na Secretaria de Desenvolvimento Social de Feira de Santana.
-- ✍ Estudando constantemente...
+- ✍ Estudando C#, .Net, Html, CSS, JS ...
 - 🤦‍♂️Na Luta diária para aprender Inglês...
 
