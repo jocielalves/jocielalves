@@ -2,6 +2,6 @@
 - 👨‍🎓 Técnico em Desenvolvimento de Sistemas ;
 - 🎓 Bacharelando em Sistemas de Informação 4/8...
 - 👨‍✈️ Em Busca da primeira oportunidade como Desenvolvedor;
-- ✍ Estudando C#, .Net, Html, CSS, JS, React, Node.js,  Sql ; 
+- ✍ Estudando C#, .Net, Html, CSS, JS, React, Node.js, Sql, Java ; 
 - 🤦‍♂️Na Luta diária para aprender Inglês ;
 
