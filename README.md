@@ -2,8 +2,6 @@
 
 ## Fala Pessoal Sou o Jociel Alves, Desenvolvedor Backend<div align="center">
   <a href="https://github.com/jocielalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jocielalves&show_icons=true"/>
-</div>
   
   ### 🚀 Languages and Tools:</summary>
 
