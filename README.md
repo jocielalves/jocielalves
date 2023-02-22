@@ -9,6 +9,7 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" title="Angular" alt="Angular" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" title="CSS3" alt="CSS3" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML5" alt="HTML5" /></code>
+<img width="25" height="25" src="[https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" title="javascript" alt="javascript" /></code>
 
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
